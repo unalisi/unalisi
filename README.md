@@ -2,7 +2,7 @@
 #### Frontend Developer
 I'm a computer engineering student interested in web development and UI/UX design.
 
-Skills: HTML / CSS / JS / REACT / FİGMA
+Skills: HTML / CSS / BOOTSTRAP / JS / REACT / FİGMA
 
 - 🔭 I’m currently working on Frontend Development with React. 
 - 🌱 I’m currently learning React 
