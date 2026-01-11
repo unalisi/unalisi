@@ -1,6 +1,6 @@
 ### Hi there 👋, My Name is Ünal 
 #### Frontend Developer
-I'm a computer engineering student interested in web development and UI/UX design.
+I'm a computer engineer interested in web development and UI/UX design.
 
 Skills: HTML / CSS / BOOTSTRAP / JS / REACT / FİGMA
 
