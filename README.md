@@ -4,7 +4,7 @@ I'm a computer engineer interested in web development and UI/UX design.
 
 Skills: HTML / CSS / BOOTSTRAP / JS / REACT / FİGMA
 
-- 🌐 Personal Website: unalisi.dev/en
+- 🌐 Personal Website: https://unalisi.dev/en
 - 🔭 I’m currently working on Frontend Development with React. 
 - 🌱 I’m currently learning React 
 - 📫 How to reach me: unalisi.dev@gmail.com 
