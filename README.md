@@ -6,7 +6,6 @@ Skills: HTML / CSS / BOOTSTRAP / JS / REACT / FİGMA
 
 - 🌐 Personal Website: https://unalisi.dev/en
 - 🔭 I’m currently working on Frontend Development with React. 
-- 🌱 I’m currently learning React 
 - 📫 How to reach me: unalisi.dev@gmail.com 
 
 
