@@ -23,6 +23,8 @@
 
 
 
+![Snake animation](https://github.com/unalisi/unalisi/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
