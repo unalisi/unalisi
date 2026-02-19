@@ -26,5 +26,5 @@
 
 
 
-![snake gif](https://github.com/unalisi/unalisi/blob/output/github-contribution-grid-snake.gif)
+
 
