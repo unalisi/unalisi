@@ -4,9 +4,6 @@
 A passionate Frontend Developer from Turkey
 </h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=unalisi&label=Profile%20Views&color=0e75b6&style=flat" alt="unalisi" />
-</p>
 
 - 🌱 I’m currently learning **Backend Technologies**
 
