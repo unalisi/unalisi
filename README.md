@@ -17,7 +17,7 @@ A passionate Frontend Developer from Turkey
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 
 <p align="left">
   <a href="https://instagram.com/unalisi" target="_blank">
@@ -31,6 +31,7 @@ A passionate Frontend Developer from Turkey
 </p>
 
 ---
+-->
 
 <h3 align="left">Languages and Tools:</h3>
 
