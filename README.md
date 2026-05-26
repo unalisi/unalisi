@@ -5,15 +5,15 @@ A passionate Frontend Developer from Turkey
 </h3>
 
 
-- 🌱 I’m currently learning **Backend Technologies**
+- I’m currently learning **Backend Technologies**
 
-- 👨‍💻 All of my projects are available at [unalisi.dev](https://unalisi.dev)
+- All of my projects are available at [unalisi.dev](https://unalisi.dev)
 
-- 📝 I regularly write articles on [unalisi.dev/tr/blog](https://unalisi.dev/tr/blog)
+- I regularly write articles on [unalisi.dev/tr/blog](https://unalisi.dev/tr/blog)
 
-- 💬 Ask me about **React, Next.js, Frontend Development**
+- Ask me about **React, Next.js, Frontend Development**
 
-- 📫 How to reach me: **contact@unalisi.dev**
+- How to reach me: **contact@unalisi.dev**
 
 ---
 
