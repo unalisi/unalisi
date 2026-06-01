@@ -35,12 +35,12 @@ A passionate Frontend Developer from Turkey
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
+<!-- <p align="left">
   <img 
     src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,postgres,tailwind,sass,bootstrap,figma,git,postman,arduino&theme=dark" 
     alt="skills" 
   />
-</p>
+</p> -->
 
 ---
 
